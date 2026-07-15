@@ -13,7 +13,7 @@ Full Stack Developer • MERN Stack Developer • PHP & Laravel Developer • Te
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Shahbaz2104&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
