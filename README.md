@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,55:1D4ED8,100:06B6D4&height=210&section=header&text=Muhammad%20Shahbaz&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20and%20eCommerce%20Developer&descAlignY=57&descSize=18" width="100%" alt="Muhammad Shahbaz" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Frontend+%26+eCommerce+Developer;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+React+%C2%B7+Next.js;Building+responsive+storefronts+and+admin+dashboards;Learning+Shopify+Liquid+and+theme+development" alt="Typing SVG" />
+<p>Building responsive storefronts, admin dashboards, and eCommerce flows.</p>
 
 <br/>
 
