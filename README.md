@@ -1,14 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,55:1D4ED8,100:06B6D4&height=210&section=header&text=Muhammad%20Shahbaz&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20%26%20eCommerce%20Developer&descAlignY=57&descSize=18" width="100%" alt="Muhammad Shahbaz" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,55:1D4ED8,100:06B6D4&height=210&section=header&text=Muhammad%20Shahbaz&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20and%20eCommerce%20Developer&descAlignY=57&descSize=18" width="100%" alt="Muhammad Shahbaz" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Frontend+%26+eCommerce+Developer;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+React+%C2%B7+Next.js;Building+responsive+storefronts+and+admin+dashboards;Currently+learning+Shopify+Liquid+and+theme+development" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Frontend+%26+eCommerce+Developer;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+React+%C2%B7+Next.js;Building+responsive+storefronts+and+admin+dashboards;Learning+Shopify+Liquid+and+theme+development" alt="Typing SVG" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/Based%20in-Karachi%2C%20Pakistan-0F172A?style=flat-square&logo=googlemaps&logoColor=white" alt="Karachi, Pakistan" />
 <img src="https://img.shields.io/badge/Open%20to-Full--time%20Onsite%20Roles-16A34A?style=flat-square" alt="Open to full-time onsite roles" />
-<img src="https://komarev.com/ghpvc/?username=Shahbaz2104&label=Profile%20Views&color=0EA5E9&style=flat-square" alt="Profile views" />
 
 <br/><br/>
 
