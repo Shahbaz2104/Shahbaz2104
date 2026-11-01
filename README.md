@@ -8,7 +8,7 @@
 
 I build React and Next.js products, Python and Rust services, and data tools where the metrics have to be honest.
 
-[Portfolio](https://shahbaz2104.github.io/) · [Email](mailto:shahbaz21042005@gmail.com) · [GitHub](https://github.com/Shahbaz2104) · [Bluesky](https://bsky.app/profile/s4i21.bsky.social)
+[Portfolio](https://shahbaz2104.github.io/) · [Resume](https://shahbaz2104.github.io/resume.pdf) · [Email](mailto:shahbaz21042005@gmail.com) · [GitHub](https://github.com/Shahbaz2104) · [Bluesky](https://bsky.app/profile/s4i21.bsky.social)
 
 <br/>
 
@@ -146,7 +146,7 @@ My data work comes from mechanical-engineering coursework in energy and conditio
 
 I'm open to full-time **full-stack** and **AI/ML** engineering roles. If you're building something that needs product sense and engineering depth, my inbox is open.
 
-[Portfolio](https://shahbaz2104.github.io/) · [Email](mailto:shahbaz21042005@gmail.com) · [GitHub](https://github.com/Shahbaz2104) · [Bluesky](https://bsky.app/profile/s4i21.bsky.social)
+[Portfolio](https://shahbaz2104.github.io/) · [Resume](https://shahbaz2104.github.io/resume.pdf) · [Email](mailto:shahbaz21042005@gmail.com) · [GitHub](https://github.com/Shahbaz2104) · [Bluesky](https://bsky.app/profile/s4i21.bsky.social)
 
 <div align="center">
 
