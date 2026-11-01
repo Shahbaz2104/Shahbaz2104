@@ -78,7 +78,7 @@ My data work comes from mechanical-engineering coursework in energy and conditio
 <tr>
 <td width="50%" valign="top">
 <a href="https://hospital-management-system-wheat-beta.vercel.app/">
-  <img src="https://opengraph.githubassets.com/1/Shahbaz2104/Hospital-Management-System" width="100%" alt="Hospital Management System" />
+  <img src="https://shahbaz2104.github.io/projects/hospital.webp" width="100%" alt="Hospital Management System login screen" />
 </a>
 <h3>Hospital Management System</h3>
 <p>27-module hospital operations platform covering patients, appointments, pharmacy, billing, insurance, HR and payroll. Nine roles, transactional stock and billing workflows, audit logs and Stripe refunds.</p>
