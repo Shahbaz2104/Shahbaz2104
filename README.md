@@ -54,6 +54,16 @@ My data work comes from mechanical-engineering coursework in energy and conditio
 
 ## Selected work
 
+### PV-PIML — Physics-Informed Solar Power Prediction
+
+**ME-409 Final Year Project · 2026**
+
+Calibrated PV physics, six ML baselines, and five physics-informed variants on 8,760 hourly PVsyst records for a 28.73 kWp array. The physics-guided residual model reached **28.9 W test RMSE**, 54% below the data-only MLP, with 0.264% WAPE, a Streamlit prediction tool, and 163 automated tests.
+
+`Python` `PyTorch` `pvlib` `scikit-learn` `Streamlit`
+
+*Private repository and report; available on request.*
+
 <table>
 <tr>
 <td width="50%" valign="top">
